@@ -9,7 +9,7 @@ To begin using the EASA method, follow the steps outlined below:
 
 First, clone this repository to your local machine using the following git command:
 ```bash
-git clone https://github.com/yourusername/EASA-Method-Repository.git
+git clone https://github.com/erliufashi/EASA-Method-Repository.git
 cd EASA-Method-Repository
 ```
 Replace `yourusername` with the actual username where the repository is hosted.
